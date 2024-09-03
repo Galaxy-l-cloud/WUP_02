@@ -45,7 +45,7 @@ favstats(VitC~Cult,data=veggy)
 ```
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
-
+The minimum for both cultivation methods stayed in the 40's range. However the maximum between the cultivation methods had a great difference of over 20 with c52 having a max of 84 compared to c39 with a max of 68. The median of both methods stayed in a similar range of 51 to 64.
 
 ## Inferential Results
 
