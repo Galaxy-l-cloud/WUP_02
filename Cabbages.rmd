@@ -40,8 +40,12 @@ plot(VitC~Cult,data=veggy)
 From the graphical data I can see that c39 cultivation method produced less VitC compared to c52 cultivation method.
 
 ### Numerical Descriptive Results
-
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+
+
 
 ## Inferential Results
 
