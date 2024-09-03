@@ -57,4 +57,6 @@ Hypothesis: If more VitC is produced from c52 compared to c39, the cultivation m
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhaps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+From analyzing various different data results, it's conclusive that the cultivation method c52 produced more VitC than cultivation method c39. The average difference was that of a little more than ten, however, comparing maximums and minimum results, the difference shows of great disparity in how much VitC each method produced. The minimum results stayed in a similar range which can be possible due to those numbers being a baseline for the VitC production. However, the maximums of 68 to 84 from c39 and c52 respectively, the most possible production of VitC was produced by c52. 
